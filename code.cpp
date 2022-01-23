@@ -12,4 +12,5 @@ int main(){
     int final;
     final=ap(n);
     cout<<final <<" "<<endl;
+    cout<<"Code completed "<<endl;
 }
